@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "NFP / empleo USA",
+    "impacto": "ALTO",
+    "hora_utc": "13:30",
+    "bloquear_trading": true,
+    "detalle": "Evitar entradas nuevas 15 min antes y después."
+  },
+  {
+    "titulo": "CPI / inflación USA",
+    "impacto": "ALTO",
+    "hora_utc": "12:30",
+    "bloquear_trading": true,
+    "detalle": "Puede disparar barridos violentos."
+  },
+  {
+    "titulo": "FOMC / tasas",
+    "impacto": "ALTO",
+    "hora_utc": "18:00",
+    "bloquear_trading": true,
+    "detalle": "Máxima sensibilidad macro."
+  }
+]

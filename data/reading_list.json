@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Think and Grow Rich",
+    "autor": "Napoleon Hill",
+    "categoria": "riqueza",
+    "nota": "Mentalidad de riqueza y foco."
+  },
+  {
+    "titulo": "The Richest Man in Babylon",
+    "autor": "George S. Clason",
+    "categoria": "riqueza",
+    "nota": "Principios simples de dinero."
+  },
+  {
+    "titulo": "Trading in the Zone",
+    "autor": "Mark Douglas",
+    "categoria": "trading",
+    "nota": "Psicología esencial del trader."
+  },
+  {
+    "titulo": "Market Wizards",
+    "autor": "Jack D. Schwager",
+    "categoria": "trading",
+    "nota": "Lecciones de traders top."
+  },
+  {
+    "titulo": "Atomic Habits",
+    "autor": "James Clear",
+    "categoria": "superación",
+    "nota": "Sistema de hábitos y mejora continua."
+  }
+]
